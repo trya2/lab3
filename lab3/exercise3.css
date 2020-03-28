@@ -1,0 +1,64 @@
+p
+{
+	background-color: #000000;
+	color: white;
+	font-family: arial;
+	font-size: 14pt;
+}
+
+
+img.center
+{
+	display: block;
+	margin: 0 auto;
+
+}
+
+h1
+{
+	background-color: #000000;
+	color: white;
+	font-family: arial;
+	font-size: 20pt;
+	text-align: center;
+}
+h2
+{
+	background-color: #000000;
+	color: white;
+	font-family: arial;
+	font-size: 20pt;
+	text-align: center;
+}
+body
+{
+	background-image: url(shire.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+iframe
+{
+	margin: 0 auto;
+	display:table;
+} 
+
+a
+{
+	background-color: blue;
+	color: red;
+	text-align: center;
+	font-size: 14pt;
+	margin: 0 auto;
+	display:table;
+}
+
+a:hover
+{
+	background-color: red;
+	color: blue;
+	text-align: center;
+	font-size: 14pt;
+}
